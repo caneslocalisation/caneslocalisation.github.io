@@ -1,0 +1,26 @@
+# main links
+main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+   - title: "Home"
+        #epsrc, canes, overleaf - footer -  contact details
+   - title: "About"
+     url: /about/  # a lot of text - canes
+   - title: "Lectures"
+     url: /lectures/  # a lot of text - canes
+   - title: "Participants"
+     url: /participants/ # images , map, accomodation
+   - title: "Background"
+     url: /topics/  # a lot of text - canes
+   - title: "Schedule"
+     url: /schedule/ # copy table , nice looking
+#   - title: "Registration"
+#     url: /registration/    # link to google doc?
+#   - title: "Location"
+#     url: /location/ # images , map, accomodation
+
+
+#   - title: "Participants"
+#     url: /participants/
+
+  #   url: /year-archive/
