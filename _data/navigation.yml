@@ -8,10 +8,10 @@ main:
      url: /about/  # a lot of text - canes
    - title: "Lectures"
      url: /lectures/  # a lot of text - canes
-   - title: "Participants"
-     url: /participants/ # images , map, accomodation
    - title: "Photo Gallery"
      url: /pictures/ # copy table , nice looking
+   - title: "Participants"
+     url: /participants/ # images , map, accomodation
    - title: "Background"
      url: /topics/  # a lot of text - canes
    - title: "Schedule"
