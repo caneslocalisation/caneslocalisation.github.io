@@ -10,6 +10,8 @@ main:
      url: /lectures/  # a lot of text - canes
    - title: "Participants"
      url: /participants/ # images , map, accomodation
+   - title: "Pictures"
+     url: /pictures/ # copy table , nice looking   
    - title: "Background"
      url: /topics/  # a lot of text - canes
    - title: "Schedule"

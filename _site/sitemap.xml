@@ -16,7 +16,7 @@
 <loc>http://localhost:4000/participants/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/registration/</loc>
+<loc>http://localhost:4000/pictures/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/registration/</loc>
@@ -44,12 +44,12 @@
 <lastmod>2017-06-21T10:58:27+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/assets/resources/Kravstov_lecture2.pdf</loc>
-<lastmod>2017-06-21T14:48:36+01:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/assets/resources/Kravtsov_lecture1.pdf</loc>
 <lastmod>2017-06-21T14:48:04+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/resources/Kravtsov_lecture2.pdf</loc>
+<lastmod>2017-06-21T14:48:36+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/resources/Papic_lecture1.pdf</loc>
