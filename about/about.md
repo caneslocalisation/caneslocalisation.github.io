@@ -5,7 +5,7 @@ title: "About"
 author_profile: true
 ---
 <h5> The workshop </h5>
-<sub> This workshop is organised by students with a diverse set of interests in non-equilibrium quantum and statistical physics. A unifying concept between their research topics is localisation, and its applications, in quantum systems. WoLQS includes three 2-hour lectures on different aspects of localisation. Each lecture will include a one-hour introduction to the topic and a one-hour talk on the speaker's current research. This workshop is supported by [CANES](http://www.kcl.ac.uk/innovation/groups/noneqsys/About-Us/Overview.aspx), the [EPSRC](https://www.epsrc.ac.uk/), [Overleaf](https://www.overleaf.com/), and [King's College London](www.kcl.ac.uk.aspx).
+<sub> This workshop is organised by students with a diverse set of interests in non-equilibrium quantum and statistical physics. A unifying concept between their research topics is localisation, and its applications, in quantum systems. WoLQS includes three 2-hour lectures on different aspects of localisation. Each lecture will include a one-hour introduction to the topic and a one-hour talk on the speaker's current research. This workshop is supported by [CANES](http://www.kcl.ac.uk/innovation/groups/noneqsys/About-Us/Overview.aspx), the [EPSRC](https://www.epsrc.ac.uk/), [Overleaf](https://www.overleaf.com/), the [Institute of Physics](http://www.iop.org/),  and [King's College London](www.kcl.ac.uk.aspx).
 </sub>
 
 <h5>  CANES </h5>
