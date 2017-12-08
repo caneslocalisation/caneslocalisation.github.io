@@ -21,7 +21,7 @@ author_profile: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QY845TIBJx8" frameborder="0" allowfullscreen></iframe> <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gewpDB0haM0" frameborder="0" allowfullscreen></iframe> <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/94OBym1R6Fc" frameborder="0" allowfullscreen></iframe> <br />
-Dr Papić's second lecture will be available shortly. 
+Dr Papić's second lecture is unavailable due to a capture error. 
 
 <iframe width="140" height="80" src="https://www.youtube.com/embed/gezq1A0i_YM" frameborder="0" allowfullscreen></iframe>  <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/spoxQFnsREY" frameborder="0" allowfullscreen></iframe>
